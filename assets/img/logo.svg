@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 200" width="700" height="200" font-family="Arial Black, Helvetica, Arial, sans-serif">
+  <text x="22" y="52" font-size="30" font-weight="700" letter-spacing="1" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">Eurl</text>
+  <rect x="22" y="62" width="560" height="4" fill="#ffffff"/>
+  <text x="18" y="126" font-size="66" font-weight="900" letter-spacing="-1" fill="#ffffff">S.G.P.</text>
+  <text x="228" y="126" font-size="66" font-weight="900" letter-spacing="-1" fill="#d1131c">IMMO</text>
+  <rect x="22" y="140" width="560" height="4" fill="#ffffff"/>
+  <text x="24" y="172" font-size="17" letter-spacing="3.4" fill="#cfc9cb"
+        font-family="Helvetica, Arial, sans-serif" font-weight="500">SOCIÉTÉ DE GESTION &amp; PROMOTION IMMOBILIÈRE</text>
+</svg>
